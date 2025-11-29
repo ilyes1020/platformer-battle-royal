@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="1" height="3" tilewidth="16" tileheight="48" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="testa" tilewidth="16" tileheight="48" tilecount="12" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="16" height="16" source="images/platform_metroidvania asset pack v1.01/miscellaneous sprites/arrow_plate_left.png"/>
+  </tile>
+  <tile id="1">
+   <image width="16" height="16" source="images/platform_metroidvania asset pack v1.01/miscellaneous sprites/arrow_plate_right.png"/>
+  </tile>
+  <tile id="2">
+   <image width="16" height="8" source="images/platform_metroidvania asset pack v1.01/miscellaneous sprites/bigflowers_props.png"/>
+  </tile>
+  <tile id="3">
+   <image width="16" height="8" source="images/platform_metroidvania asset pack v1.01/miscellaneous sprites/drygrass_props.png"/>
+  </tile>
+  <tile id="4">
+   <image width="16" height="8" source="images/platform_metroidvania asset pack v1.01/miscellaneous sprites/flowers_props.png"/>
+  </tile>
+  <tile id="5">
+   <image width="16" height="8" source="images/platform_metroidvania asset pack v1.01/miscellaneous sprites/grass_props.png"/>
+  </tile>
+  <tile id="7">
+   <image width="16" height="16" source="images/platform_metroidvania asset pack v1.01/miscellaneous sprites/vase.png"/>
+  </tile>
+  <tile id="8">
+   <image width="16" height="8" source="images/platform_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_left.png"/>
+  </tile>
+  <tile id="9">
+   <image width="16" height="8" source="images/platform_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_middle.png"/>
+  </tile>
+  <tile id="10">
+   <image width="16" height="8" source="images/platform_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_right.png"/>
+  </tile>
+  <tile id="11">
+   <image width="16" height="16" source="images/platform_metroidvania asset pack v1.01/miscellaneous sprites/wooden_plate.png"/>
+  </tile>
+  <tile id="12">
+   <image width="16" height="48" source="images/platform_metroidvania asset pack v1.01/miscellaneous sprites/strange_door_closed_anim.gif"/>
+  </tile>
+ </tileset>
+ <layer id="1" name="Calque de Tuiles 1" width="1" height="3">
+  <data encoding="csv">
+13,
+13,
+13
+</data>
+ </layer>
+</map>
