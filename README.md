@@ -28,7 +28,7 @@ It represents my first ever coding project. Built using Python and Pygame.
 ## Running the Game
 Run the game using the following command:
 ```bash
-python Projet2.py
+python main.py
 ```
 ## Controls
 All the controls are listed on the start screen.
